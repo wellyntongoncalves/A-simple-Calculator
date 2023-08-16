@@ -32,4 +32,4 @@ Aprender é importante para ter um bom futuro, mas o segredo real do sucesso est
 
 # <h2>LICENSE</h2>
 
-MIT License © [Wellynton Gonçalves]
+MIT License © [wellyntongoncalves](https://github.com/wellyntongoncalves/A-simple-Calculator/blob/main/README.md)
